@@ -9,4 +9,4 @@ Version 2.00 was a major under taking to move this to the ECS aligned schema.
 
 I have also spent more time during 2.00 versions to try and document the locations of the data.
 
-I have also spent alot of time creating a parser of the data that is collected so the end goal would be to have the data that is output requiring as little interpertation as possible. This is not alway 100% done but this is my end goal for this project is to achieve this.
+I have also spent alot of time creating a parser of the data that is collected so the end goal would be to have the data that is output requiring as little interpertation as possible. This is not always 100% done but this is my end goal for this project is to achieve this.
